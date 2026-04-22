@@ -1,4 +1,6 @@
 # STARS
-This is the official repository for the "Temporal Anomaly Detection for Space Robotics" paper.
 
-Repository for the TALLO dataset is found here:
+Official repository for the paper  
+**"Temporal Anomaly Detection for Space Robotic Inspection"**
+
+**Dataset**: [TALLO Dataset](https://github.com/TRAILab/TALLO-Dataset)
